@@ -1,0 +1,28 @@
+*
+{
+  margin:0px;
+  padding:0px;
+}
+@media (min-width:768px)
+    {
+      ul li
+      {
+        display: none;
+      }
+    }
+    li a
+    {
+      font-size:20px;
+    }
+    section h1
+    {
+      margin-top:20px;
+      margin-bottom:24px;
+      font-size:60px;
+    }
+    section#second
+    {
+      margin-top:10px;
+      margin-bottom:20px;
+    }
+  
